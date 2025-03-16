@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
+
 [instagram]:https://www.instagram.com/omar_kassem32/
 [linkedin]: https://www.linkedin.com/in/omar-kassem-41baa4355/
