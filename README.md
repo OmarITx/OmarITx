@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omar, an <a href="https://www.linkedin.com/in/omar-kassem-41baa4355/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Omar, an <a href="https://www.linkedin.com/in/omar-kassem-41baa4355/"> Ctrl+C / Ctrl+V Specialist </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
