@@ -6,7 +6,7 @@ Feedback welcome (especially if it comes with memes).</p>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <ul>
-  <li><b>osTicket (Help Desk Ticketing System)</b>
+  <li><b> Active Directory </b>
     <ul>
       <li><a href="https://github.com/OmarITx/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
       <li><a href="https://github.com/OmarITx/post-install-config">osTicket: Post-Installation Configuration</a></li>
