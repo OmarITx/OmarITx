@@ -13,13 +13,7 @@ Feedback welcome (especially if it comes with memes).</p>
       <li><a href="https://github.com/OmarITx/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
     </ul>
   </li>
-  <li><b>Microsoft Azure</b>
-    <ul>
-      <li><a href="https://github.com/OmarITx/configure-ad">Configuring On-premises Active Directory within Azure VMs</a></li>
-      <li><a href="https://github.com/OmarITx/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a></li>
-    </ul>
-  </li>
-</ul>
+  
 
 <h2>🤳 Connect with me:</h2>
 
