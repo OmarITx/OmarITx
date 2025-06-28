@@ -9,7 +9,7 @@ Feedback welcome (especially if it comes with memes).</p>
 <ul>
   <li><b> Active Directory </b>
     <ul>
-      <li><a href="https://github.com/OmarITx/Active-directory-baiscs">osTicket: Prerequisites and Installation</a></li>
+      <li><a href="https://github.com/OmarITx/Active-directory-baiscs">Active directory: Basic instalation and key factors </a></li>
       <li><a href="https://github.com/OmarITx/post-install-config">osTicket: Post-Installation Configuration</a></li>
       <li><a href="https://github.com/OmarITx/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
     </ul>
